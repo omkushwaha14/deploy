@@ -1,0 +1,25 @@
+{
+  "name": "simpledeploying",
+  "version": "1.0.0",
+  "description": "good",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omkushwaha14/deploy.git"
+  },
+  "keywords": [
+    "commit"
+  ],
+  "author": "om",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omkushwaha14/deploy/issues"
+  },
+  "homepage": "https://github.com/omkushwaha14/deploy#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
